@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: guimartiins/ci-module-go:latest
+          tags: castmoon/ci-module-go:latest
